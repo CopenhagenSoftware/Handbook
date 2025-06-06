@@ -51,8 +51,9 @@ We code for robustness; this means we need to have a strong defence against the 
 We embrace the following techniques for defensive coding
 
 * Immutability
-* Parse, don’t validate
+* Parse, donâ€™t validate
 * Fail early, fail fast
+* Composition instead of inheritance 
 
 ## We take ownership of the full build and release pipeline forboth code and platform
 
