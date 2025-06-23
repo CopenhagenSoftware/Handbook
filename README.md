@@ -60,7 +60,8 @@ We embrace the following techniques for defensive coding
 * Immutability
 * Parse, don’t validate
 * Fail early, fail fast
-* Composition instead of inheritance 
+* Composition instead of inheritance
+* Factories for object creation
 
 ## We take ownership of the full build and release pipeline for both code and platform
 
