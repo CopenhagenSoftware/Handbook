@@ -1,5 +1,5 @@
 # Custom Built Solutions
-The custom software handbook is a collection of philosophies and principles, that the CS team adheres to.
+The custom software handbook is a collection of philosophies and principles, that the CBS team adheres to.
 
 If you feel that changes are needed, please open a PR and tag several reviewers, once approved, it will be a part of the team handbook.
 
