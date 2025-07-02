@@ -37,3 +37,10 @@ allows for way more flexibility and targetted testing.
 The price is a lot of methods that just forwards calls to the internal property.
 
 See: https://en.wikipedia.org/wiki/Composition_over_inheritance
+
+## Factories for object creation
+
+If in you code you need to instantiate a new object it is preferable to use a factory for the instantiation instead of using the new operator.
+A factory can be injected in the constructor supporting both dependency injection and mocking for tests.
+This is often one of the first steps needed for making code we inherit testable.
+The price is the addition of code for factories.
