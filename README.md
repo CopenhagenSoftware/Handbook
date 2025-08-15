@@ -87,6 +87,6 @@ Whenever we change something in production we have a colleague observe to valida
 
 The term Production covers any live running system where invalid changes could cause downtime - this includes deployment pipelines. 
 
-The term Changes covers any modification not covered by normal review, normally things not in source control.
+The term Changes covers any modification not covered by normal review. For example, manually modifying configuration values instead of using Infastructure-as-Code kept in source control.
 
 [Two-Person rule](https://en.wikipedia.org/wiki/Two-person_rule)
