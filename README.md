@@ -80,3 +80,13 @@ In all things, take the time to make sure involved parties are informed and that
 Rushing communication, and especially code reviews, leads to misunderstandings and mistakes.
 
 This will likely end up in more work in the end, and therefore is not a time saver.
+
+## We have 4 eyes on production changes
+
+Whenever we change stuff in production we have a collegue looking over our shoulder to validate we do as we intent to do.
+
+The term Production covers any live running system upon which manual wrongful changes would cause downtime for the client so also deploy pipelines. 
+
+The term Changes covers any modification not covered by normal review, normally things not in source control.
+
+[Two-Person rule](https://en.wikipedia.org/wiki/Two-person_rule)
