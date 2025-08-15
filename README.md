@@ -81,7 +81,7 @@ Rushing communication, and especially code reviews, leads to misunderstandings a
 
 This will likely end up in more work in the end, and therefore is not a time saver.
 
-## We have 4 eyes on production changes
+## We make changes in pairs where regulare review is unavailable
 
 Whenever we change stuff in production we have a collegue looking over our shoulder to validate we do as we intent to do.
 
