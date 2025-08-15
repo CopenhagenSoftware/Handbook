@@ -1,9 +1,9 @@
-# Custom Built Solutions
-The custom build software handbook is a collection of philosophies and principles, that the CBS team adheres to.
+# Custom Built Solutions - Handbook
+The custom built software handbook is a collection of philosophies and principles, that the CBS team adheres to.
 
 If you feel that changes are needed, please open a PR and tag several reviewers, once approved, it will be a part of the team handbook.
 
-## Working methods of Custom Build Solutions
+## Working methods of Custom Built Solutions
 
 In Custom Built Solutions we strive for software excellence. 
 Therefore, we value what clever people have done for research into creating more robust and maintainable software. 
