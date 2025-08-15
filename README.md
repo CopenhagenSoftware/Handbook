@@ -83,7 +83,7 @@ This will likely end up in more work in the end, and therefore is not a time sav
 
 ## We make changes in pairs where regulare review is unavailable
 
-Whenever we change stuff in production we have a collegue looking over our shoulder to validate we do as we intent to do.
+Whenever we change something in production we have a colleague observe to validate we do as we intend to do.
 
 The term Production covers any live running system upon which manual wrongful changes would cause downtime for the client so also deploy pipelines. 
 
