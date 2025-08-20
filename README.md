@@ -14,6 +14,7 @@ This results in the following principles for how we work.
 * We code defensively
 * We take ownership of the full build and release pipeline for both code and platform
 * We use discussion as a tool for problem solving
+* We make changes in pairs where regular review is unavailable
 
 We know that these methods all require more work, and therefore a higher cost upfront but are confident that they will pay back down the road.
 
@@ -53,7 +54,7 @@ Unit tests must be written in the Arrange, Act, Assert pattern.<br>
 
 ## We code defensively
 
-We code for robustness; this means we need to have a strong defence against the possibility of common pitfall errors.
+We code for robustness; this means we need to have a strong defense against the possibility of common pitfall errors.
 
 We embrace the following techniques for defensive coding
 
@@ -81,7 +82,7 @@ Rushing communication, and especially code reviews, leads to misunderstandings a
 
 This will likely end up in more work in the end, and therefore is not a time saver.
 
-## We make changes in pairs where regulare review is unavailable
+## We make changes in pairs where regular review is unavailable
 
 Whenever we change something in production we have a colleague observe to validate we do as we intend to do.
 
